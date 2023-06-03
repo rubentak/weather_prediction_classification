@@ -1,4 +1,4 @@
-# Weather_prediction_classification
+# Weather prediction classification 
 In this repository I try different classification algorithems to classify the weather conditions of Istanbul. 
 
 Hand Guide:
