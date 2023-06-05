@@ -6,6 +6,7 @@ Hand Guide:
 
 1. Ensure you have the required dependencies installed. You can install them using pip if you haven't already:
 
+
 ```
 pip install pandas scikit-learn sqlite3
 ```
